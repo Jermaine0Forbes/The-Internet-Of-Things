@@ -4,7 +4,10 @@ this repository is for things I really wanted to know about the internet
 and why certain things are
 
 - [what is soap][soap]
+
+## Token Based Authentication
 - [what is token based authentication][token-auth]
+- [what is a jwt][jwt-auth]
 
 ## Links
 - [A Comprehensive Guide to Becoming a Self-Taught Programmer](https://medium.com/better-programming/a-comprehensive-walkthrough-to-becoming-a-self-taught-programmer-and-computer-scientist-part-i-288541b19940)
@@ -44,11 +47,16 @@ and why certain things are
 - Most useful data structure is hashmaps
 - learn about stacks & queues
 
-
+[jwt-auth]:#what-is-a-jwt
 [token-auth]:#what-is-token-based-authentication
 [soap]:#what-is-soap
 [home]:#the-internet-of-things
 
+
+### What is a jwt
+**:link: references**
+  
+- [The Anatomy of a JSON Web Token](https://scotch.io/tutorials/the-anatomy-of-a-json-web-token)
 
 ### What is token based authentication
 <details>
@@ -56,6 +64,7 @@ and why certain things are
 View Content
 </summary>
 **:link: references**
+  
 - [The Ins and Outs of Token Based Authentication](https://scotch.io/tutorials/the-ins-and-outs-of-token-based-authentication#)
 
 </details>
