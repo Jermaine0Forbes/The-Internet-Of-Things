@@ -32,6 +32,14 @@ and why certain things are
 - sliding windows
 - greedy algorithms
 
+## Top 10 algorithms
+- depth first search
+- breadth first search
+- matching parenthesis
+- hash tables
+- variable/pointer manipulation
+- reversing a linkedlist
+
 ## Notes
 - Most useful data structure is hashmaps
 - learn about stacks & queues
