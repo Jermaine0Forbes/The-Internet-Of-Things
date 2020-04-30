@@ -42,6 +42,10 @@ and why certain things are
 - hash tables
 - variable/pointer manipulation
 - reversing a linkedlist
+- sorting algorithms fundamentals
+- recursion
+- custom data structures
+- binary search
 
 ## Notes
 - Most useful data structure is hashmaps
@@ -55,7 +59,7 @@ and why certain things are
 
 ### What is a jwt
 **:link: references**
-  
+
 - [The Anatomy of a JSON Web Token](https://scotch.io/tutorials/the-anatomy-of-a-json-web-token)
 
 ### What is token based authentication
@@ -64,7 +68,7 @@ and why certain things are
 View Content
 </summary>
 **:link: references**
-  
+
 - [The Ins and Outs of Token Based Authentication](https://scotch.io/tutorials/the-ins-and-outs-of-token-based-authentication#)
 
 </details>
