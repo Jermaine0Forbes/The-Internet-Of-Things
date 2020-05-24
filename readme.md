@@ -16,9 +16,17 @@ and why certain things are
 - [geeks for geeks](https://www.geeksforgeeks.org/data-structures/)
 - [hackerrank](https://www.hackerrank.com/dashboard)
 
+### Order
+- Big O Notation
+- depth first search
+- breadth first search
+- REST
+- SOAP
+- JWT
+- OAuth
+- Token Based authentication
 
-
-## Data Structures
+### Data Structures
 - iteration & recursion
 - multidimesional arrays & matrices
 - linked lists
@@ -35,7 +43,11 @@ and why certain things are
 - sliding windows
 - greedy algorithms
 
-## Top 10 algorithms
+### DS Notes
+- Most useful data structure is hashmaps
+- learn about stacks & queues
+
+### Top 10 algorithms
 - depth first search
 - breadth first search
 - matching parenthesis
@@ -47,9 +59,7 @@ and why certain things are
 - custom data structures
 - binary search
 
-## Notes
-- Most useful data structure is hashmaps
-- learn about stacks & queues
+
 
 [jwt-auth]:#what-is-a-jwt
 [token-auth]:#what-is-token-based-authentication
