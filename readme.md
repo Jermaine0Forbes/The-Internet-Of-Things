@@ -17,7 +17,7 @@ and why certain things are
 - [hackerrank](https://www.hackerrank.com/dashboard)
 
 ### Order
-- Big O Notation
+- [Big O Notation][big-o]
 - depth first search
 - breadth first search
 - REST
@@ -60,11 +60,24 @@ and why certain things are
 - binary search
 
 
-
+[big-o]:#what-is-big-o-notation
 [jwt-auth]:#what-is-a-jwt
 [token-auth]:#what-is-token-based-authentication
 [soap]:#what-is-soap
 [home]:#the-internet-of-things
+
+
+### What is Big O Notation
+<details>
+<summary>
+View Content
+</summary>
+**:link: references**
+- [Big O notation: definition and examples](https://yourbasic.org/algorithms/big-o-notation-explained/)
+
+</details>
+
+[go back :house:][home]
 
 
 ### What is a jwt
