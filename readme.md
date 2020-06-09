@@ -74,6 +74,10 @@ View Content
 </summary>
 **:link: references**
 - [Big O notation: definition and examples](https://yourbasic.org/algorithms/big-o-notation-explained/)
+- [Algorithms for dummies (Part 1): Big-O Notation and Sorting](https://adrianmejia.com/algorithms-for-dummies-part-1-sorting/)
+
+**My Definition:** It is an algorithm that is supposed to predict how long it will take to finish running
+some code
 
 </details>
 
