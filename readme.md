@@ -18,7 +18,7 @@ and why certain things are
 
 ### Order
 - [Big O Notation][big-o]
-- depth first search
+- [depth first search][dfs]
 - breadth first search
 - REST
 - SOAP
@@ -59,7 +59,7 @@ and why certain things are
 - custom data structures
 - binary search
 
-
+[dfs]:#what-is-depth-first-search
 [big-o]:#what-is-big-o-notation
 [jwt-auth]:#what-is-a-jwt
 [token-auth]:#what-is-token-based-authentication
@@ -67,12 +67,29 @@ and why certain things are
 [home]:#the-internet-of-things
 
 
+### What is depth first search
+<details>
+<summary>
+View Content
+</summary>
+**:link: references**
+- [Data Structure - Depth First Traversal](https://www.tutorialspoint.com/data_structures_algorithms/depth_first_traversal.htm)
+
+**Definition:** Depth First Search (DFS) algorithm traverses a graph in a depthward motion and uses a stack to remember to get the next vertex to start a search, when a dead end occurs in any iteration.
+
+**My Definition:** 
+
+</details>
+
+[go back :house:][home]
+
 ### What is Big O Notation
 <details>
 <summary>
 View Content
 </summary>
 **:link: references**
+- [Big O Notations](https://www.youtube.com/watch?v=V6mKVRU1evU)
 - [Introduction to Big O Notation and Time Complexity (Data Structures & Algorithms #7)](https://www.youtube.com/watch?v=D6xkbGLQesk&t=1878s)
 - [Big O notation: definition and examples](https://yourbasic.org/algorithms/big-o-notation-explained/)
 - [Algorithms for dummies (Part 1): Big-O Notation and Sorting](https://adrianmejia.com/algorithms-for-dummies-part-1-sorting/)
