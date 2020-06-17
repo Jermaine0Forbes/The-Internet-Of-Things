@@ -73,6 +73,7 @@ and why certain things are
 View Content
 </summary>
 **:link: references**
+- [Introduction to Big O Notation and Time Complexity (Data Structures & Algorithms #7)](https://www.youtube.com/watch?v=D6xkbGLQesk&t=1878s)
 - [Big O notation: definition and examples](https://yourbasic.org/algorithms/big-o-notation-explained/)
 - [Algorithms for dummies (Part 1): Big-O Notation and Sorting](https://adrianmejia.com/algorithms-for-dummies-part-1-sorting/)
 
