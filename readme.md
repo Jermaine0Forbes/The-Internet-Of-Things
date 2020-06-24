@@ -75,6 +75,7 @@ View Content
 **:link: references**
   
 - [Data Structure - Depth First Traversal](https://www.tutorialspoint.com/data_structures_algorithms/depth_first_traversal.htm)
+- [Depth First Search Algorithm | Graph Theory](https://www.youtube.com/watch?v=7fujbpJ0LB4)
 
 **Definition:** Depth First Search (DFS) algorithm traverses a graph in a depthward motion and uses a stack to remember to get the next vertex to start a search, when a dead end occurs in any iteration.
 
@@ -90,6 +91,7 @@ View Content
 View Content
 </summary>
 **:link: references**
+  
 - [Big O Notations](https://www.youtube.com/watch?v=V6mKVRU1evU)
 - [Introduction to Big O Notation and Time Complexity (Data Structures & Algorithms #7)](https://www.youtube.com/watch?v=D6xkbGLQesk&t=1878s)
 - [Big O notation: definition and examples](https://yourbasic.org/algorithms/big-o-notation-explained/)
