@@ -76,8 +76,11 @@ View Content
   
 - [Data Structure - Depth First Traversal](https://www.tutorialspoint.com/data_structures_algorithms/depth_first_traversal.htm)
 - [Depth First Search Algorithm | Graph Theory](https://www.youtube.com/watch?v=7fujbpJ0LB4)
+- [Depth First Search Algorithm: What it is and How it Works](https://edgy.app/depth-first-search-algorithm-what-it-is-and-how-it-works)
 
 **Definition:** Depth First Search (DFS) algorithm traverses a graph in a depthward motion and uses a stack to remember to get the next vertex to start a search, when a dead end occurs in any iteration.
+
+**Definition 2:** a DFS algorithm traverses a tree or graph from the parent vertex down to its children and grandchildren vertices in a single path until it reaches a dead end.
 
 **My Definition:** 
 
