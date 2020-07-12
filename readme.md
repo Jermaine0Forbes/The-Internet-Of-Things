@@ -19,7 +19,7 @@ and why certain things are
 ### Order
 - [Big O Notation][big-o]
 - [depth first search][dfs]
-- breadth first search
+- [breadth first search][bfs]
 - REST
 - SOAP
 - JWT
@@ -59,6 +59,7 @@ and why certain things are
 - custom data structures
 - binary search
 
+[bfs]:#what-is-breadth-first-search
 [dfs]:#what-is-depth-first-search
 [big-o]:#what-is-big-o-notation
 [jwt-auth]:#what-is-a-jwt
@@ -66,6 +67,23 @@ and why certain things are
 [soap]:#what-is-soap
 [home]:#the-internet-of-things
 
+
+### What is breadth first search
+<details>
+<summary>
+View Content
+</summary>
+**:link: references**
+  
+- [Breadth First Search (BFS) Algorithm with EXAMPLE](https://www.guru99.com/breadth-first-search-bfs-graph-example.html)
+
+**Definition:** The algorithm efficiently visits and marks all the key nodes in a graph in an accurate breadthwise fashion. This algorithm selects a single node (initial or source point) in a graph and then visits all the nodes adjacent to the selected node. Remember, BFS accesses these nodes one by one.
+
+**My Definition:** 
+
+</details>
+
+[go back :house:][home]
 
 ### What is depth first search
 <details>
