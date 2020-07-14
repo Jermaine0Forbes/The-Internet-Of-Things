@@ -20,7 +20,7 @@ and why certain things are
 - [Big O Notation][big-o]
 - [depth first search][dfs]
 - [breadth first search][bfs]
-- REST
+- [REST][rest]
 - SOAP
 - JWT
 - OAuth
@@ -59,6 +59,7 @@ and why certain things are
 - custom data structures
 - binary search
 
+[rest]:#what-is-rest
 [bfs]:#what-is-breadth-first-search
 [dfs]:#what-is-depth-first-search
 [big-o]:#what-is-big-o-notation
@@ -67,6 +68,23 @@ and why certain things are
 [soap]:#what-is-soap
 [home]:#the-internet-of-things
 
+
+### What is REST
+<details>
+<summary>
+View Content
+</summary>
+**:link: references**
+  
+- [What is REST?](https://www.codecademy.com/articles/what-is-rest)
+
+**Definition:** REST, or REpresentational State Transfer, is an architectural style for providing standards between computer systems on the web, making it easier for systems to communicate with each other. REST-compliant systems, often called RESTful systems, are characterized by how they are stateless and separate the concerns of client and server. We will go into what these terms mean and why they are beneficial characteristics for services on the Web.
+
+**My Definition:** 
+
+</details>
+
+[go back :house:][home]
 
 ### What is breadth first search
 <details>
