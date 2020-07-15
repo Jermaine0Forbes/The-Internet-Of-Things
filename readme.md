@@ -21,7 +21,7 @@ and why certain things are
 - [depth first search][dfs]
 - [breadth first search][bfs]
 - [REST][rest]
-- SOAP
+- [SOAP][soap]
 - JWT
 - OAuth
 - Token Based authentication
@@ -59,6 +59,7 @@ and why certain things are
 - custom data structures
 - binary search
 
+[soap]:#what-is-soap
 [rest]:#what-is-rest
 [bfs]:#what-is-breadth-first-search
 [dfs]:#what-is-depth-first-search
@@ -67,6 +68,25 @@ and why certain things are
 [token-auth]:#what-is-token-based-authentication
 [soap]:#what-is-soap
 [home]:#the-internet-of-things
+
+
+### What is SOAP
+<details>
+<summary>
+View Content
+</summary>
+**:link: references**
+  
+- [SOAP (Simple Object Access Protocol)](https://searchapparchitecture.techtarget.com/definition/SOAP-Simple-Object-Access-Protocol)
+- [double octopus](https://doubleoctopus.com/security-wiki/protocol/simple-object-access-protocol/)
+
+**Definition:** Simple Object Access Protocol (SOAP) is a client-server messaging protocol for exchanging structured data between web-services. SOAP uses XML for its message format and relies on standard application layer protocols, most often Hypertext Transfer Protocol (HTTP) or Simple Mail Transfer Protocol (SMTP), for message negotiation and transmission.
+
+**My Definition:** 
+
+</details>
+
+[go back :house:][home]
 
 
 ### What is REST
