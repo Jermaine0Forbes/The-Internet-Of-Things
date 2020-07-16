@@ -5,9 +5,6 @@ and why certain things are
 
 - [what is soap][soap]
 
-## Token Based Authentication
-- [what is token based authentication][token-auth]
-- [what is a jwt][jwt-auth]
 
 ## Links
 - [A Comprehensive Guide to Becoming a Self-Taught Programmer](https://medium.com/better-programming/a-comprehensive-walkthrough-to-becoming-a-self-taught-programmer-and-computer-scientist-part-i-288541b19940)
@@ -18,30 +15,32 @@ and why certain things are
 
 ### Order
 - [Big O Notation][big-o]
-- [depth first search][dfs]
+- [binary search][bi-search]
 - [breadth first search][bfs]
-- [REST][rest]
-- [SOAP][soap]
-- JWT
-- OAuth
-- Token Based authentication
-
-### Data Structures
-- iteration & recursion
-- multidimesional arrays & matrices
-- linked lists
-- queues , stacks, and heaps
-- sets & hash maps
-- trees & binary search
-- graph traversals, ex : depth first search, breath first search
-- tries
-- sorting algorithms (merge sort, quick sort)
-- big o notation
+- [depth first search][dfs]
 - dynamic programming ( memoization, divide & conquer)
-- proofs (contrapositive, contradiction, proof by cases, induction)
-- multiple pointers
-- sliding windows
+- functional programming
+- graph traversals, ex : depth first search, breath first search
 - greedy algorithms
+- heaps
+- iteration & recursion
+- [JWT][jwt-auth]
+- memoization
+- multidimesional arrays & matrices
+- multiple pointers
+- linked lists
+- OAuth
+- proofs (contrapositive, contradiction, proof by cases, induction)
+- queues
+- [REST][rest]
+- sets & hash maps
+- sliding windows
+- [SOAP][soap]
+- sorting algorithms (merge sort, quick sort)
+- stacks
+- [Token Based authentication][token-auth]
+- trees & binary search
+- tries
 
 ### DS Notes
 - Most useful data structure is hashmaps
@@ -59,6 +58,7 @@ and why certain things are
 - custom data structures
 - binary search
 
+[bi-search]:#what-is-binary-search
 [soap]:#what-is-soap
 [rest]:#what-is-rest
 [bfs]:#what-is-breadth-first-search
@@ -69,6 +69,23 @@ and why certain things are
 [soap]:#what-is-soap
 [home]:#the-internet-of-things
 
+### title
+<details>
+<summary>
+View Content
+</summary>
+**:link: references**
+
+- []()
+
+**Definition:**
+
+**My Definition:**
+
+</details>
+
+[go back :house:][home]
+
 
 ### What is SOAP
 <details>
@@ -76,13 +93,13 @@ and why certain things are
 View Content
 </summary>
 **:link: references**
-  
+
 - [SOAP (Simple Object Access Protocol)](https://searchapparchitecture.techtarget.com/definition/SOAP-Simple-Object-Access-Protocol)
 - [double octopus](https://doubleoctopus.com/security-wiki/protocol/simple-object-access-protocol/)
 
 **Definition:** Simple Object Access Protocol (SOAP) is a client-server messaging protocol for exchanging structured data between web-services. SOAP uses XML for its message format and relies on standard application layer protocols, most often Hypertext Transfer Protocol (HTTP) or Simple Mail Transfer Protocol (SMTP), for message negotiation and transmission.
 
-**My Definition:** 
+**My Definition:**
 
 </details>
 
@@ -95,12 +112,12 @@ View Content
 View Content
 </summary>
 **:link: references**
-  
+
 - [What is REST?](https://www.codecademy.com/articles/what-is-rest)
 
 **Definition:** REST, or REpresentational State Transfer, is an architectural style for providing standards between computer systems on the web, making it easier for systems to communicate with each other. REST-compliant systems, often called RESTful systems, are characterized by how they are stateless and separate the concerns of client and server. We will go into what these terms mean and why they are beneficial characteristics for services on the Web.
 
-**My Definition:** 
+**My Definition:**
 
 </details>
 
@@ -112,12 +129,12 @@ View Content
 View Content
 </summary>
 **:link: references**
-  
+
 - [Breadth First Search (BFS) Algorithm with EXAMPLE](https://www.guru99.com/breadth-first-search-bfs-graph-example.html)
 
 **Definition:** The algorithm efficiently visits and marks all the key nodes in a graph in an accurate breadthwise fashion. This algorithm selects a single node (initial or source point) in a graph and then visits all the nodes adjacent to the selected node. Remember, BFS accesses these nodes one by one.
 
-**My Definition:** 
+**My Definition:**
 
 </details>
 
@@ -129,7 +146,7 @@ View Content
 View Content
 </summary>
 **:link: references**
-  
+
 - [Data Structure - Depth First Traversal](https://www.tutorialspoint.com/data_structures_algorithms/depth_first_traversal.htm)
 - [Depth First Search Algorithm | Graph Theory](https://www.youtube.com/watch?v=7fujbpJ0LB4)
 - [Depth First Search Algorithm: What it is and How it Works](https://edgy.app/depth-first-search-algorithm-what-it-is-and-how-it-works)
@@ -138,7 +155,7 @@ View Content
 
 **Definition 2:** a DFS algorithm traverses a tree or graph from the parent vertex down to its children and grandchildren vertices in a single path until it reaches a dead end.
 
-**My Definition:** 
+**My Definition:**
 
 </details>
 
@@ -150,7 +167,7 @@ View Content
 View Content
 </summary>
 **:link: references**
-  
+
 - [Big O Notations](https://www.youtube.com/watch?v=V6mKVRU1evU)
 - [Introduction to Big O Notation and Time Complexity (Data Structures & Algorithms #7)](https://www.youtube.com/watch?v=D6xkbGLQesk&t=1878s)
 - [Big O notation: definition and examples](https://yourbasic.org/algorithms/big-o-notation-explained/)
