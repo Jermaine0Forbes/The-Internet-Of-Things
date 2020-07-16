@@ -10,7 +10,7 @@ and why certain things are
 - [harvard cs50](https://cs50.harvard.edu/college/2020/spring/syllabus/)
 - [geeks for geeks](https://www.geeksforgeeks.org/data-structures/)
 - [hackerrank](https://www.hackerrank.com/dashboard)
-- [tutorials point](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
+- [tutorials point - data structures and algorithms](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
 
 ## Order
 - [Big O Notation][big-o]
