@@ -3,8 +3,6 @@
 this repository is for things I really wanted to know about the internet
 and why certain things are
 
-- [what is soap][soap]
-
 
 ## Links
 - [A Comprehensive Guide to Becoming a Self-Taught Programmer](https://medium.com/better-programming/a-comprehensive-walkthrough-to-becoming-a-self-taught-programmer-and-computer-scientist-part-i-288541b19940)
@@ -12,8 +10,9 @@ and why certain things are
 - [harvard cs50](https://cs50.harvard.edu/college/2020/spring/syllabus/)
 - [geeks for geeks](https://www.geeksforgeeks.org/data-structures/)
 - [hackerrank](https://www.hackerrank.com/dashboard)
+- [tutorials point](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
 
-### Order
+## Order
 - [Big O Notation][big-o]
 - [binary search][bi-search]
 - [breadth first search][bfs]
@@ -22,9 +21,10 @@ and why certain things are
 - functional programming
 - graph traversals, ex : depth first search, breath first search
 - greedy algorithms
+- hashmaps
 - heaps
 - iteration & recursion
-- [JWT][jwt-auth]
+- [JWT][jwt-auth]--
 - memoization
 - multidimesional arrays & matrices
 - multiple pointers
@@ -38,13 +38,10 @@ and why certain things are
 - [SOAP][soap]
 - sorting algorithms (merge sort, quick sort)
 - stacks
-- [Token Based authentication][token-auth]
+- [Token Based authentication][token-auth]--
 - trees & binary search
 - tries
 
-### DS Notes
-- Most useful data structure is hashmaps
-- learn about stacks & queues
 
 ### Top 10 algorithms
 - depth first search
@@ -69,16 +66,16 @@ and why certain things are
 [soap]:#what-is-soap
 [home]:#the-internet-of-things
 
-### title
+### what is binary search
 <details>
 <summary>
 View Content
 </summary>
 **:link: references**
 
-- []()
+- [Binary search](https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search)
 
-**Definition:**
+**Definition:** Binary search is an efficient algorithm for finding an item from a sorted list of items. It works by repeatedly dividing in half the portion of the list that could contain the item, until you've narrowed down the possible locations to just one
 
 **My Definition:**
 
@@ -199,13 +196,4 @@ View Content
 
 [go back :house:][home]
 
-### What is SOAP
 
-<details>
-<summary>
-View Content
-</summary>
-<iframe width="854" height="480" src="https://www.youtube.com/embed/TvGLm7BijJY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</details>
-
-[go back :house:][home]
