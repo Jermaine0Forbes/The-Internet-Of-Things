@@ -17,7 +17,7 @@ and why certain things are
 - [binary search][bi-search]
 - [breadth first search][bfs]
 - [depth first search][dfs]
-- dynamic programming ( memoization, divide & conquer)
+- [dynamic programming ( memoization, divide & conquer)][dyn-pro]
 - functional programming
 - graph traversals, ex : depth first search, breath first search
 - greedy algorithms
@@ -38,6 +38,7 @@ and why certain things are
 - [SOAP][soap]
 - sorting algorithms (merge sort, quick sort)
 - stacks
+- tabulation
 - [Token Based authentication][token-auth]--
 - trees & binary search
 - tries
@@ -55,6 +56,7 @@ and why certain things are
 - custom data structures
 - binary search
 
+[dyn-pro]:#what-is-dynamic-programming
 [bi-search]:#what-is-binary-search
 [soap]:#what-is-soap
 [rest]:#what-is-rest
@@ -65,6 +67,26 @@ and why certain things are
 [token-auth]:#what-is-token-based-authentication
 [soap]:#what-is-soap
 [home]:#the-internet-of-things
+
+---
+
+### what is dynamic programming
+<details>
+<summary>
+View Content
+</summary>
+**:link: references**
+
+- [What Is Dynamic Programming and Why Is It So Important?](https://medium.com/better-programming/dynamic-programming-series-1-what-is-it-and-why-is-it-so-important-64675b9f6049)
+- [What is Dynamic Programming? Memoization and Tabulation](https://jarednielsen.com/dynamic-programming-memoization-tabulation/)
+
+**Definition:**  is a technique of breaking down a problem into subproblems, solving these subproblems once, and storing their solutions. 
+
+**My Definition:**
+
+</details>
+
+[go back :house:][home]
 
 ### what is binary search
 <details>
