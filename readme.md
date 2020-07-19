@@ -18,11 +18,13 @@ and why certain things are
 - [breadth first search][bfs]
 - [depth first search][dfs]
 - [dynamic programming ( memoization, divide & conquer)][dyn-pro]
-- functional programming
+- [functional programming][fun-pro]
 - graph traversals, ex : depth first search, breath first search
 - greedy algorithms
 - hashmaps
 - heaps
+- higher order functions
+- HTTP
 - iteration & recursion
 - [JWT][jwt-auth]--
 - memoization
@@ -31,10 +33,12 @@ and why certain things are
 - linked lists
 - OAuth
 - proofs (contrapositive, contradiction, proof by cases, induction)
+- pure function
 - queues
 - [REST][rest]
 - sets & hash maps
 - sliding windows
+- SMTP
 - [SOAP][soap]
 - sorting algorithms (merge sort, quick sort)
 - stacks
@@ -56,6 +60,7 @@ and why certain things are
 - custom data structures
 - binary search
 
+[fun-pro]:#what-is-functional-programming
 [dyn-pro]:#what-is-dynamic-programming
 [bi-search]:#what-is-binary-search
 [soap]:#what-is-soap
@@ -69,6 +74,23 @@ and why certain things are
 [home]:#the-internet-of-things
 
 ---
+
+### what is functional programming
+<details>
+<summary>
+View Content
+</summary>
+**:link: references**
+
+- [Functional Programming - What Is It and Why Does It Matter?](https://www.keycdn.com/blog/functional-programming)
+
+**Definition:** Functional programming (FP) is a programming paradigm for developing software using functions. Following the FP philosophy entails foregoing things like shared states, mutable data and side effects. Functional programming is a declarative paradigm because it relies on expressions and declarations rather than statements. Unlike procedures that depend on a local or global state, value outputs in FP depend only on the arguments passed to the function.
+
+**My Definition:**
+
+</details>
+
+[go back :house:][home]
 
 ### what is dynamic programming
 <details>
