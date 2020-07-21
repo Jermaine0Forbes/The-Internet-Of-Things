@@ -19,8 +19,8 @@ and why certain things are
 - [depth first search][dfs]
 - [dynamic programming ( memoization, divide & conquer)][dyn-pro]
 - [functional programming][fun-pro]
-- graph traversals, ex : depth first search, breath first search
-- greedy algorithms
+- [graph traversals, ex : depth first search, breath first search][gra-tra]
+- [greedy algorithms][gre-alg]
 - hashmaps
 - heaps
 - higher order functions
@@ -60,6 +60,8 @@ and why certain things are
 - custom data structures
 - binary search
 
+[gre-alg]:#what-are-greedy-alogrithms
+[gra-tra]:#what-is-graph-traversal
 [fun-pro]:#what-is-functional-programming
 [dyn-pro]:#what-is-dynamic-programming
 [bi-search]:#what-is-binary-search
@@ -74,6 +76,40 @@ and why certain things are
 [home]:#the-internet-of-things
 
 ---
+
+### what are greedy algorithms
+<details>
+<summary>
+View Content
+</summary>
+**:link: references**
+
+- [Greedy Algorithms](https://brilliant.org/wiki/greedy-algorithm/)
+
+**Definition:** A greedy algorithm is a simple, intuitive algorithm that is used in optimization problems. The algorithm makes the optimal choice at each step as it attempts to find the overall optimal way to solve the entire problem.
+
+**My Definition:**
+
+</details>
+
+[go back :house:][home]
+
+### what is graph traversal
+<details>
+<summary>
+View Content
+</summary>
+**:link: references**
+
+- [Graph Traversal](http://btechsmartclass.com/data_structures/graph-traversal-dfs.html)
+
+**Definition:** Graph traversal is a technique used for a searching vertex in a graph. The graph traversal is also used to decide the order of vertices is visited in the search process. A graph traversal finds the edges to be used in the search process without creating loops. That means using graph traversal we visit all the vertices of the graph without getting into looping path.
+
+**My Definition:**
+
+</details>
+
+[go back :house:][home]
 
 ### what is functional programming
 <details>
