@@ -13,7 +13,8 @@ and why certain things are
 - [tutorials point - data structures and algorithms](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
 
 ## Order
-- [Big O Notation][big-o]
+- agile methodology
+- [big O notation][big-o]
 - [binary search][bi-search]
 - [breadth first search][bfs]
 - [depth first search][dfs]
@@ -36,6 +37,7 @@ and why certain things are
 - pure function
 - queues
 - [REST][rest]
+- SCRUM
 - sets & hash maps
 - sliding windows
 - SMTP
@@ -43,7 +45,7 @@ and why certain things are
 - sorting algorithms (merge sort, quick sort)
 - stacks
 - tabulation
-- [Token Based authentication][token-auth]--
+- [token based authentication][token-auth]--
 - trees & binary search
 - tries
 
