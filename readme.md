@@ -13,7 +13,7 @@ and why certain things are
 - [tutorials point - data structures and algorithms](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
 
 ## Order
-- agile methodology
+- [agile methodology][agi-met]
 - [big O notation][big-o]
 - [binary search][bi-search]
 - [breadth first search][bfs]
@@ -38,6 +38,7 @@ and why certain things are
 - queues
 - [REST][rest]
 - SCRUM
+- SDLC
 - sets & hash maps
 - sliding windows
 - SMTP
@@ -62,6 +63,7 @@ and why certain things are
 - custom data structures
 - binary search
 
+[agi-met]:#what-is-agile-methodology
 [gre-alg]:#what-are-greedy-alogrithms
 [gra-tra]:#what-is-graph-traversal
 [fun-pro]:#what-is-functional-programming
@@ -78,6 +80,23 @@ and why certain things are
 [home]:#the-internet-of-things
 
 ---
+
+### what is agile methodology
+<details>
+<summary>
+View Content
+</summary>
+**:link: references**
+
+- [What is Agile: Understanding Agile Methodology and Its Types](https://www.simplilearn.com/tutorials/agile-scrum-tutorial/what-is-agile)
+
+**Definition:** Agile is a process by which a team can manage a project by breaking it up into several stages and involving constant collaboration with stakeholders and continuous improvement and iteration at every stage. The Agile methodology begins with clients describing how the end product will be used and what problem it will solve. This clarifies the customer's expectations to the project team.
+
+**My Definition:**
+
+</details>
+
+[go back :house:][home]
 
 ### what are greedy algorithms
 <details>
