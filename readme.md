@@ -22,7 +22,7 @@ and why certain things are
 - [functional programming][fun-pro]
 - [graph traversals, ex : depth first search, breath first search][gra-tra]
 - [greedy algorithms][gre-alg]
-- hashmaps
+- [hashtables][hash]
 - heaps
 - higher order functions
 - HTTP
@@ -63,6 +63,7 @@ and why certain things are
 - custom data structures
 - binary search
 
+[hash]:#what-is-a-hashtable
 [agi-met]:#what-is-agile-methodology
 [gre-alg]:#what-are-greedy-alogrithms
 [gra-tra]:#what-is-graph-traversal
@@ -80,6 +81,23 @@ and why certain things are
 [home]:#the-internet-of-things
 
 ---
+
+### what is a hashtable
+<details>
+<summary>
+View Content
+</summary>
+**:link: references**
+
+- [Basics of Hash Tables](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/tutorial/)
+
+**Definition:** Hash Table is a kind of Data Structure Used to achieve Hashing. It internally maintains a an array of Buckets. Where each bucket can store multiple elements and mapped to Hash Code. This hash code is calculated using Hash Function.
+
+**My Definition:**
+
+</details>
+
+[go back :house:][home]
 
 ### what is agile methodology
 <details>
