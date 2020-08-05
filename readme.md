@@ -23,8 +23,8 @@ and why certain things are
 - [graph traversals, ex : depth first search, breath first search][gra-tra]
 - [greedy algorithms][gre-alg]
 - [hashtables][hash]
-- heaps
-- higher order functions
+- [heaps][heap]
+- [higher order functions][hof]
 - HTTP
 - iteration & recursion
 - [JWT][jwt-auth]--
@@ -63,6 +63,8 @@ and why certain things are
 - custom data structures
 - binary search
 
+[hof]:#what-is-a-higher-order-function
+[heap]:#what-is-a-heap
 [hash]:#what-is-a-hashtable
 [agi-met]:#what-is-agile-methodology
 [gre-alg]:#what-are-greedy-alogrithms
@@ -81,6 +83,41 @@ and why certain things are
 [home]:#the-internet-of-things
 
 ---
+
+### what is a higher order function
+<details>
+<summary>
+View Content
+</summary>
+**:link: references**
+
+- [What is a Higher-Order Function?](https://typeofnan.dev/what-is-a-higher-order-function/)
+
+**Definition:** By definition, a higher-order function is a function that either takes a function as an argument or returns a function.
+
+**My Definition:**
+
+</details>
+
+[go back :house:][home]
+
+
+### what is a heap
+<details>
+<summary>
+View Content
+</summary>
+**:link: references**
+
+- [What is the Heap data structure](https://www.thecodingdelight.com/heap-data-structure/)
+
+**Definition:** The heap is a binary tree, meaning at the most, each parent has two children. There are two types of heaps: the max and min heap. The root node of a max heap is the highest value in the heap, whereas a min heap has the minimum value allocated to the root node.
+
+**My Definition:**
+
+</details>
+
+[go back :house:][home]
 
 ### what is a hashtable
 <details>
