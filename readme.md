@@ -25,9 +25,8 @@ and why certain things are
 - [hashtables][hash]
 - [heaps][heap]
 - [higher order functions][hof]
-- HTTP
-- iteration & recursion
-- [JWT][jwt-auth]--
+- [HTTP][http]
+- [JWT][jwt-auth]
 - memoization
 - multidimesional arrays & matrices
 - multiple pointers
@@ -36,6 +35,7 @@ and why certain things are
 - proofs (contrapositive, contradiction, proof by cases, induction)
 - pure function
 - queues
+- recursion
 - [REST][rest]
 - SCRUM
 - SDLC
@@ -44,11 +44,15 @@ and why certain things are
 - SMTP
 - [SOAP][soap]
 - sorting algorithms (merge sort, quick sort)
+- SSL
 - stacks
 - tabulation
+- tcp/ip
+- TLS
 - [token based authentication][token-auth]--
 - trees & binary search
 - tries
+- world wide web
 
 
 ### Top 10 algorithms
@@ -63,6 +67,7 @@ and why certain things are
 - custom data structures
 - binary search
 
+[http]:#what-is-http
 [hof]:#what-is-a-higher-order-function
 [heap]:#what-is-a-heap
 [hash]:#what-is-a-hashtable
@@ -83,6 +88,26 @@ and why certain things are
 [home]:#the-internet-of-things
 
 ---
+
+
+
+### what is http
+<details>
+<summary>
+View Content
+</summary>
+**:link: references**
+
+- [HTTP (Hypertext Transfer Protocol)](https://whatis.techtarget.com/definition/HTTP-Hypertext-Transfer-Protocol)
+
+**Definition:** HTTP (Hypertext Transfer Protocol) is the set of rules for transferring files, such as text, graphic images, sound, video, and other multimedia files, on the World Wide Web.
+
+**My Definition:**
+
+</details>
+
+[go back :house:][home]
+
 
 ### what is a higher order function
 <details>
@@ -335,9 +360,28 @@ some code
 
 
 ### What is a jwt
+<details>
+<summary>
+View Content
+</summary>
 **:link: references**
-
+  
 - [The Anatomy of a JSON Web Token](https://scotch.io/tutorials/the-anatomy-of-a-json-web-token)
+- [So what are JSON Web Tokens?](https://www.freecodecamp.org/news/what-are-json-web-tokens-jwt-auth-tutorial/)
+- []()
+
+**Definition:** JWT is a standard that defines a compact and self-contained way to securely transmit information between a client and a server as a JSON object. 
+
+**My Definition:**
+
+</details>
+
+[go back :house:][home]
+
+
+
+
+
 
 ### What is token based authentication
 <details>
