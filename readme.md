@@ -18,6 +18,7 @@ and why certain things are
 - [binary search][bi-search]
 - [breadth first search][bfs]
 - [depth first search][dfs]
+- [divide & conquer][dnc]
 - [dynamic programming ( memoization, divide & conquer)][dyn-pro]
 - [functional programming][fun-pro]
 - [graph traversals, ex : depth first search, breath first search][gra-tra]
@@ -67,6 +68,7 @@ and why certain things are
 - custom data structures
 - binary search
 
+[dnc]:#what-is-divide-and-conquer
 [memo]:#what-is-memoization
 [http]:#what-is-http
 [hof]:#what-is-a-higher-order-function
@@ -90,6 +92,22 @@ and why certain things are
 
 ---
 
+### divide and conquer
+<details>
+<summary>
+View Content
+</summary>
+**:link: references**
+
+- [Divide and conquer algorithms](https://www.khanacademy.org/computing/computer-science/algorithms/merge-sort/a/divide-and-conquer-algorithms)
+
+**Definition:** divide-and-conquer, breaks a problem into subproblems that are similar to the original problem, recursively solves the subproblems, and finally combines the solutions to the subproblems to solve the original problem. 
+
+**My Definition:**
+
+</details>
+
+[go back :house:][home]
 
 ### what is memoization
 <details>
