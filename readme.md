@@ -27,7 +27,7 @@ and why certain things are
 - [higher order functions][hof]
 - [HTTP][http]
 - [JWT][jwt-auth]
-- memoization
+- [memoization][memo]
 - multidimesional arrays & matrices
 - multiple pointers
 - linked lists
@@ -67,6 +67,7 @@ and why certain things are
 - custom data structures
 - binary search
 
+[memo]:#what-is-memoization
 [http]:#what-is-http
 [hof]:#what-is-a-higher-order-function
 [heap]:#what-is-a-heap
@@ -89,6 +90,24 @@ and why certain things are
 
 ---
 
+
+### what is memoization
+<details>
+<summary>
+View Content
+</summary>
+**:link: references**
+
+- [wikipedia](https://en.wikipedia.org/wiki/Memoization)
+- [whatthefuck](https://whatthefuck.is/memoization)
+
+**Definition:** In computing, memoization or memoisation is an optimization technique used primarily to speed up computer programs by storing the results of expensive function calls and returning the cached result when the same inputs occur again. 
+
+**My Definition:**
+
+</details>
+
+[go back :house:][home]
 
 
 ### what is http
