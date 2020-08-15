@@ -29,7 +29,7 @@ and why certain things are
 - [HTTP][http]
 - [JWT][jwt-auth]
 - [memoization][memo]
-- multidimesional arrays & matrices
+- [multidimesional arrays & matrices][matrix]
 - multiple pointers
 - linked lists
 - OAuth
@@ -69,6 +69,7 @@ and why certain things are
 - custom data structures
 - binary search
 
+[matrix]:#what-is-a-matrix
 [dnc]:#what-is-divide-and-conquer
 [memo]:#what-is-memoization
 [http]:#what-is-http
@@ -92,6 +93,23 @@ and why certain things are
 [home]:#the-internet-of-things
 
 ---
+
+### what is a matrix
+<details>
+<summary>
+View Content
+</summary>
+**:link: references**
+
+- [Matrix (mathematics)](https://en.wikipedia.org/wiki/Matrix_(mathematics))
+
+**Definition:** In mathematics, a matrix (plural matrices) is a rectangular array of numbers, symbols, or expressions, arranged in rows and columns
+
+**My Definition:**
+
+</details>
+
+[go back :house:][home]
 
 ### divide and conquer
 <details>
