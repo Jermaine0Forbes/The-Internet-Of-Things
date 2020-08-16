@@ -30,7 +30,7 @@ and why certain things are
 - [JWT][jwt-auth]
 - [memoization][memo]
 - [multidimesional arrays & matrices][matrix]
-- multiple pointers
+- [pointers][point]
 - linked lists
 - OAuth
 - proofs (contrapositive, contradiction, proof by cases, induction)
@@ -69,6 +69,8 @@ and why certain things are
 - custom data structures
 - binary search
 
+
+[point]:#what-is-a-pointer
 [matrix]:#what-is-a-matrix
 [dnc]:#what-is-divide-and-conquer
 [memo]:#what-is-memoization
@@ -93,6 +95,23 @@ and why certain things are
 [home]:#the-internet-of-things
 
 ---
+
+### what is a pointer
+<details>
+<summary>
+View Content
+</summary>
+**:link: references**
+
+- [What Are Pointers?](https://www.sparknotes.com/cs/pointers/whatarepointers/section1/)
+
+**Definition:** A pointer is a variable that holds memory address of another variable. A pointer needs to be dereferenced with * operator to access the memory location it points to.
+
+**My Definition:**
+
+</details>
+
+[go back :house:][home]
 
 ### what is a matrix
 <details>
