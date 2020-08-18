@@ -69,7 +69,7 @@ and why certain things are
 - custom data structures
 - binary search
 
-[]:#what-is-a-linked-list
+[llist]:#what-is-a-linked-list
 [point]:#what-is-a-pointer
 [matrix]:#what-is-a-matrix
 [dnc]:#what-is-divide-and-conquer
