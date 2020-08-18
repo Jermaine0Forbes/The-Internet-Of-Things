@@ -31,7 +31,7 @@ and why certain things are
 - [memoization][memo]
 - [multidimesional arrays & matrices][matrix]
 - [pointers][point]
-- linked lists
+- [linked lists][llist]
 - OAuth
 - proofs (contrapositive, contradiction, proof by cases, induction)
 - pure function
@@ -69,7 +69,7 @@ and why certain things are
 - custom data structures
 - binary search
 
-
+[]:#what-is-a-linked-list
 [point]:#what-is-a-pointer
 [matrix]:#what-is-a-matrix
 [dnc]:#what-is-divide-and-conquer
@@ -95,6 +95,23 @@ and why certain things are
 [home]:#the-internet-of-things
 
 ---
+
+### what is a linked list
+<details>
+<summary>
+View Content
+</summary>
+**:link: references**
+
+- [Data Structure and Algorithms - Linked List](https://www.tutorialspoint.com/data_structures_algorithms/linked_list_algorithms.htm)
+
+**Definition:** Linked List is a sequence of links which contains items. Each link contains a connection to another link. Linked list is the second most-used data structure after array.
+
+**My Definition:**
+
+</details>
+
+[go back :house:][home]
 
 ### what is a pointer
 <details>
