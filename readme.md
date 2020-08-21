@@ -32,7 +32,7 @@ and why certain things are
 - [multidimesional arrays & matrices][matrix]
 - [pointers][point]
 - [linked lists][llist]
-- OAuth
+- [OAuth][oauth]
 - proofs (contrapositive, contradiction, proof by cases, induction)
 - pure function
 - queues
@@ -69,6 +69,7 @@ and why certain things are
 - custom data structures
 - binary search
 
+[oauth]:#what-is-oauth
 [llist]:#what-is-a-linked-list
 [point]:#what-is-a-pointer
 [matrix]:#what-is-a-matrix
@@ -95,6 +96,25 @@ and why certain things are
 [home]:#the-internet-of-things
 
 ---
+
+### what is oAuth
+<details>
+<summary>
+View Content
+</summary>
+**:link: references**
+
+- [OAuth](https://www.techopedia.com/definition/26694/oauth)
+
+**Definition:** OAuth is an authorization protocol - or in other words, a set of rules - that allows a third-party website or application to access a user’s data without the user needing to share login credentials.
+
+OAuth's open-source protocol enables users to share their data and resources stored on one site with another site under a secure authorization scheme based on a token-based authorization mechanism. OAuth is also known as OAuth Core.
+
+**My Definition:**
+
+</details>
+
+[go back :house:][home]
 
 ### what is a linked list
 <details>
