@@ -11,6 +11,7 @@ and why certain things are
 - [geeks for geeks](https://www.geeksforgeeks.org/data-structures/)
 - [hackerrank](https://www.hackerrank.com/dashboard)
 - [tutorials point - data structures and algorithms](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
+- [CS3 Data Structures & Algorithms](https://opendsa-server.cs.vt.edu/ODSA/Books/CS3/html/index.html)
 
 ## Order
 - [agile methodology][agi-met]
