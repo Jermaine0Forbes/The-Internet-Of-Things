@@ -99,6 +99,23 @@ and why certain things are
 
 ---
 
+### what is a pure function
+<details>
+<summary>
+View Content
+</summary>
+**:link: references**
+
+- [What Is a Pure Function?](https://medium.com/better-programming/what-is-a-pure-function-3b4af9352f6f)
+
+**Definition:** A function is called pure function if it always returns the same result for same argument values and it has no side effects like modifying an argument (or global variable) or outputting something.
+
+**My Definition:**
+
+</details>
+
+[go back :house:][home]
+
 ### what is oAuth
 <details>
 <summary>
