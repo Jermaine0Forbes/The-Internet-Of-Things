@@ -35,7 +35,7 @@ and why certain things are
 - [linked lists][llist]
 - [OAuth][oauth]
 - proofs (contrapositive, contradiction, proof by cases, induction)
-- pure function
+- [pure function][pure-fun]
 - queues
 - recursion
 - [REST][rest]
@@ -70,6 +70,7 @@ and why certain things are
 - custom data structures
 - binary search
 
+[pure-fun]:#what-is-a-pure-function
 [oauth]:#what-is-oauth
 [llist]:#what-is-a-linked-list
 [point]:#what-is-a-pointer
