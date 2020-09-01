@@ -36,8 +36,8 @@ and why certain things are
 - [OAuth][oauth]
 - proofs (contrapositive, contradiction, proof by cases, induction)
 - [pure function][pure-fun]
-- queues
-- recursion
+- [queues][q]
+- [recursion][recur]
 - [REST][rest]
 - SAML
 - SCRUM
@@ -70,6 +70,8 @@ and why certain things are
 - custom data structures
 - binary search
 
+[recur]:#what-is-recursion
+[q]:#what-is-a-queue
 [pure-fun]:#what-is-a-pure-function
 [oauth]:#what-is-oauth
 [llist]:#what-is-a-linked-list
@@ -98,6 +100,41 @@ and why certain things are
 [home]:#the-internet-of-things
 
 ---
+
+### what is recursion
+<details>
+<summary>
+View Content
+</summary>
+**:link: references**
+
+- [sparknotes](https://www.sparknotes.com/cs/recursion/whatisrecursion/section1/)
+
+**Definition:** Recursion is a computer programming technique involving the use of a procedure, subroutine, function, or algorithm that calls itself in a step having a termination condition so that successive repetitions are processed up to the critical step where the condition is met at which time the rest of each repetition is processed from the last one called to the first.
+
+**My Definition:**
+
+</details>
+
+[go back :house:][home]
+
+### what is a queue
+<details>
+<summary>
+View Content
+</summary>
+**:link: references**
+
+- [Queues A Level Resources](https://teachcomputerscience.com/a-level/data-types-data-structures-and-algorithms/queues/)
+
+**Definition:** Queue is a First In, First Out data structure. The elements are inserted to this data structure to the rear end of the queue and the elements are retrieved at the front end of the queue.
+
+**My Definition:**
+
+</details>
+
+[go back :house:][home]
+
 
 ### what is a pure function
 <details>
