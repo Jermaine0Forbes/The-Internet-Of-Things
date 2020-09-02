@@ -39,8 +39,8 @@ and why certain things are
 - [queues][q]
 - [recursion][recur]
 - [REST][rest]
-- SAML
-- SCRUM
+- [SAML][saml]
+- [SCRUM][scrum]--
 - SDLC
 - sets & hash maps
 - sliding windows
@@ -48,6 +48,7 @@ and why certain things are
 - [SOAP][soap]
 - sorting algorithms (merge sort, quick sort)
 - SSL
+- SSO
 - stacks
 - tabulation
 - tcp/ip
@@ -70,6 +71,8 @@ and why certain things are
 - custom data structures
 - binary search
 
+[scrum]:#what-is-scrum
+[saml]:#What-is-saml
 [recur]:#what-is-recursion
 [q]:#what-is-a-queue
 [pure-fun]:#what-is-a-pure-function
@@ -100,6 +103,40 @@ and why certain things are
 [home]:#the-internet-of-things
 
 ---
+
+### what is scrum
+<details>
+<summary>
+View Content
+</summary>
+**:link: references**
+
+- []()
+
+**Definition:** 
+
+**My Definition:**
+
+</details>
+
+[go back :house:][home]
+
+### what is saml
+<details>
+<summary>
+View Content
+</summary>
+**:link: references**
+
+- [What is SAML and How Does it Work?](https://www.varonis.com/blog/what-is-saml/)
+
+**Definition:** Security Assertion Markup Language (SAML) is an open standard that allows identity providers (IdP) to pass authorization credentials to service providers (SP). What that jargon means is that you can use one set of credentials to log into many different websites. It’s much simpler to manage one login per user than it is to manage separate logins to email, customer relationship management (CRM) software, Active Directory, etc.
+
+**My Definition:**
+
+</details>
+
+[go back :house:][home]
 
 ### what is recursion
 <details>
