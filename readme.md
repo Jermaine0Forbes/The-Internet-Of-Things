@@ -40,8 +40,8 @@ and why certain things are
 - [recursion][recur]
 - [REST][rest]
 - [SAML][saml]
-- [SCRUM][scrum]--
-- SDLC
+- [SCRUM][scrum]
+- [SDLC][sdlc]
 - sets & hash maps
 - sliding windows
 - SMTP
@@ -71,6 +71,7 @@ and why certain things are
 - custom data structures
 - binary search
 
+[sdlc]:#what-is-sdlc
 [scrum]:#what-is-scrum
 [saml]:#What-is-saml
 [recur]:#what-is-recursion
@@ -104,7 +105,7 @@ and why certain things are
 
 ---
 
-### what is scrum
+### what is SDLC
 <details>
 <summary>
 View Content
@@ -114,6 +115,23 @@ View Content
 - []()
 
 **Definition:** 
+
+**My Definition:**
+
+</details>
+
+[go back :house:][home]
+
+### what is scrum
+<details>
+<summary>
+View Content
+</summary>
+**:link: references**
+
+- [What Is Scrum Methodology?](https://digital.ai/resources/agile-101/what-is-scrum)
+
+**Definition:** Scrum is an agile project management methodology or framework used primarily for software development projects with the goal of delivering new software capability every 2-4 weeks. It is one of the approaches that influenced the Agile Manifesto, which articulates a set of values and principles to guide decisions on how to develop higher-quality software faster. 
 
 **My Definition:**
 
