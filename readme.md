@@ -112,9 +112,9 @@ View Content
 </summary>
 **:link: references**
 
-- []()
+- [tutorial point](https://www.tutorialspoint.com/sdlc/index.htm)
 
-**Definition:** 
+**Definition:** Software Development Life Cycle (SDLC) is a process used by the software industry to design, develop and test high quality softwares. The SDLC aims to produce a high-quality software that meets or exceeds customer expectations, reaches completion within times and cost estimates.
 
 **My Definition:**
 
@@ -122,7 +122,7 @@ View Content
 
 [go back :house:][home]
 
-### what is scrum
+### what is SCRUM
 <details>
 <summary>
 View Content
@@ -139,7 +139,7 @@ View Content
 
 [go back :house:][home]
 
-### what is saml
+### what is SAML
 <details>
 <summary>
 View Content
@@ -208,7 +208,7 @@ View Content
 
 [go back :house:][home]
 
-### what is oAuth
+### what is OAuth
 <details>
 <summary>
 View Content
