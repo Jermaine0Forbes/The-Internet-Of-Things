@@ -42,16 +42,16 @@ and why certain things are
 - [SAML][saml]
 - [SCRUM][scrum]
 - [SDLC][sdlc]
-- sets & hash maps
+- [sets][sets]
 - sliding windows
-- SMTP
+- [SMTP][smtp]
 - [SOAP][soap]
 - sorting algorithms (merge sort, quick sort)
 - SSL
 - SSO
 - stacks
 - tabulation
-- tcp/ip
+- TCP/IP
 - TLS
 - [token based authentication][token-auth]--
 - trees & binary search
@@ -71,6 +71,8 @@ and why certain things are
 - custom data structures
 - binary search
 
+[smtp]:#what-is-smtp
+[sets]:#what-are-sets
 [sdlc]:#what-is-sdlc
 [scrum]:#what-is-scrum
 [saml]:#What-is-saml
@@ -104,6 +106,41 @@ and why certain things are
 [home]:#the-internet-of-things
 
 ---
+
+### what is SMTP
+<details>
+<summary>
+View Content
+</summary>
+**:link: references**
+
+- [SMTP (Simple Mail Transfer Protocol)](https://whatis.techtarget.com/definition/SMTP-Simple-Mail-Transfer-Protocol)
+
+**Definition:** SMTP (Simple Mail Transfer Protocol) is a TCP/IP protocol used in sending and receiving e-mail. However, since it is limited in its ability to queue messages at the receiving end, it is usually used with one of two other protocols, POP3 (Post Office Protocol) or IMAP (Internet Message Access Protocol), that let the user save messages in a server mailbox and download them periodically from the server. In other words, users typically use a program that uses SMTP for sending e-mail and either POP3 or IMAP for receiving e-mail.
+
+**My Definition:**
+
+</details>
+
+[go back :house:][home]
+
+### what are sets
+<details>
+<summary>
+View Content
+</summary>
+**:link: references**
+
+- [sets](https://everythingcomputerscience.com/discrete_mathematics/Sets.html)
+
+**Definition:** A set is a well defined collection of distinct objects. The objects that make up a set (also known as the elements or members of a set) can be anything: numbers, people, letters of the alphabet, other sets, and so on.
+
+**My Definition:**
+
+</details>
+
+[go back :house:][home]
+
 
 ### what is SDLC
 <details>
