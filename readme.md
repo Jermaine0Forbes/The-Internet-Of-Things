@@ -30,6 +30,7 @@ and why certain things are
 - [HTTP][http]
 - [JWT][jwt-auth]
 - [memoization][memo]
+- [merge sort][m-sort]
 - [multidimesional arrays & matrices][matrix]
 - [pointers][point]
 - [linked lists][llist]
@@ -37,17 +38,17 @@ and why certain things are
 - proofs (contrapositive, contradiction, proof by cases, induction)
 - [pure function][pure-fun]
 - [queues][q]
+- [quick sort][q-sort]
 - [recursion][recur]
 - [REST][rest]
 - [SAML][saml]
 - [SCRUM][scrum]
 - [SDLC][sdlc]
 - [sets][sets]
-- sliding windows
+- [sliding windows][sw]
 - [SMTP][smtp]
 - [SOAP][soap]
-- sorting algorithms (merge sort, quick sort)
-- SSL
+- [SSL][ssl]--
 - SSO
 - stacks
 - tabulation
@@ -71,6 +72,10 @@ and why certain things are
 - custom data structures
 - binary search
 
+[ssl]:#what-is-ssl
+[q-sort]:#what-is-quick-sort
+[m-sort]:#what-is-merge-sort
+[sw]:#what-is-a-sliding-window
 [smtp]:#what-is-smtp
 [sets]:#what-are-sets
 [sdlc]:#what-is-sdlc
@@ -106,6 +111,80 @@ and why certain things are
 [home]:#the-internet-of-things
 
 ---
+
+
+### what is SSL
+<details>
+<summary>
+View Content
+</summary>
+**:link: references**
+
+- []()
+
+**Definition:** 
+
+**My Definition:**
+
+</details>
+
+[go back :house:][home]
+
+
+### what is quick sort
+<details>
+<summary>
+View Content
+</summary>
+**:link: references**
+
+- [wikipedia](https://en.wikipedia.org/wiki/Quicksort)
+- [tutorial point](https://www.tutorialspoint.com/data_structures_algorithms/quick_sort_algorithm.htm)
+
+**Definition:** Quicksort is a divide-and-conquer algorithm. It works by selecting a 'pivot' element from the array and partitioning the other elements into two sub-arrays, according to whether they are less than or greater than the pivot. The sub-arrays are then sorted recursively. This can be done in-place, requiring small additional amounts of memory to perform the sorting.
+
+Quicksort is a comparison sort, meaning that it can sort items of any type for which a "less-than" relation (formally, a total order) is defined. Efficient implementations of Quicksort are not a stable sort, meaning that the relative order of equal sort items is not preserved. 
+
+**My Definition:**
+
+</details>
+
+[go back :house:][home]
+
+### what is merge sort
+<details>
+<summary>
+View Content
+</summary>
+**:link: references**
+
+- [tutorials point](https://www.tutorialspoint.com/data_structures_algorithms/merge_sort_algorithm.htm)
+
+**Definition:** Merge sort is a sorting technique based on divide and conquer technique. With worst-case time complexity being Ο(n log n), it is one of the most respected algorithms.
+
+**My Definition:**
+
+</details>
+
+[go back :house:][home]
+
+
+### what is a sliding window
+<details>
+<summary>
+View Content
+</summary>
+**:link: references**
+
+- [Techopedia](https://www.techopedia.com/definition/869/sliding-window#:~:text=Sliding%20window%20is%20a%20technique%20for%20controlling%20transmitted,Layer%20%28OSI%20model%29%20or%20Transmission%20Control%20Protocol%20%28TCP%29.)
+
+**Definition:** The sliding window technique places varying limits on the number of data packets that are sent before waiting for an acknowledgment signal back from the receiving computer. The number of data packets is called the window size. The limits on window size vary depending on the rate at which the receiving computer can process the data packets, and on the capacity of its buffer.
+
+**My Definition:**
+
+</details>
+
+[go back :house:][home]
 
 ### what is SMTP
 <details>
