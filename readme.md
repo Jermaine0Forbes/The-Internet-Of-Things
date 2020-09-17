@@ -48,7 +48,7 @@ and why certain things are
 - [sliding windows][sw]
 - [SMTP][smtp]
 - [SOAP][soap]
-- [SSL][ssl]--
+- [SSL][ssl]
 - SSO
 - stacks
 - tabulation
@@ -120,9 +120,9 @@ View Content
 </summary>
 **:link: references**
 
-- []()
+- [A Beginner's Guide to SSL: What It is & Why It Makes Your Website More Secure](https://blog.hubspot.com/marketing/what-is-ssl)
 
-**Definition:** 
+**Definition:** An SSL is security technology. It's a protocol for servers and web browsers that makes sure that data passed between the two are private. This is done using an encrypted link that connects the server and browser.
 
 **My Definition:**
 
