@@ -49,7 +49,7 @@ and why certain things are
 - [SMTP][smtp]
 - [SOAP][soap]
 - [SSL][ssl]
-- SSO
+- [SSO][sso]
 - stacks
 - tabulation
 - TCP/IP
@@ -72,6 +72,7 @@ and why certain things are
 - custom data structures
 - binary search
 
+[sso]:#what-is-sso
 [ssl]:#what-is-ssl
 [q-sort]:#what-is-quick-sort
 [m-sort]:#what-is-merge-sort
@@ -111,6 +112,23 @@ and why certain things are
 [home]:#the-internet-of-things
 
 ---
+
+### what is SSO
+<details>
+<summary>
+View Content
+</summary>
+**:link: references**
+
+- [Single Sign-On (SSO)](https://www.techopedia.com/definition/4106/single-sign-on-sso)
+
+**Definition:** Single sign-on (SSO) is an authentication process that allows a user to access multiple applications with one set of login credentials. SSO is a common procedure in enterprises, where a client accesses multiple resources connected to a local area network (LAN).
+
+**My Definition:**
+
+</details>
+
+[go back :house:][home]
 
 
 ### what is SSL
