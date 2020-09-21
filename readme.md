@@ -50,7 +50,7 @@ and why certain things are
 - [SOAP][soap]
 - [SSL][ssl]
 - [SSO][sso]
-- stacks
+- [stacks][stacks]
 - tabulation
 - TCP/IP
 - TLS
@@ -72,6 +72,7 @@ and why certain things are
 - custom data structures
 - binary search
 
+[stacks]:#what-are-stacks
 [sso]:#what-is-sso
 [ssl]:#what-is-ssl
 [q-sort]:#what-is-quick-sort
@@ -112,6 +113,24 @@ and why certain things are
 [home]:#the-internet-of-things
 
 ---
+
+
+### what are stacks
+<details>
+<summary>
+View Content
+</summary>
+**:link: references**
+
+- [Stack Data Structure](https://thecustomizewindows.com/2012/03/stack-data-structure-in-computer-science/)
+
+**Definition:** Stack in practice includes limited set of objects. Elements can only be placed on top of the stack. Elements are stacked one above the other and in reverse order taken out from the stack . This is also known as Last-In-First-Out principle (LIFO). A common practical usage along with example will make the topic more clear. You probably have heard of Push and Pull. These Push and Pull actually are methods of heaping the data in an automated system. Push sets the object on top of the stack. Pop removes the top item from the stack. The action of pop is known as Pull.
+
+**My Definition:**
+
+</details>
+
+[go back :house:][home]
 
 ### what is SSO
 <details>
