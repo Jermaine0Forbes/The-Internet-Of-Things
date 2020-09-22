@@ -51,7 +51,7 @@ and why certain things are
 - [SSL][ssl]
 - [SSO][sso]
 - [stacks][stacks]
-- tabulation
+- [tabulation][tab]
 - TCP/IP
 - TLS
 - [token based authentication][token-auth]--
@@ -72,6 +72,7 @@ and why certain things are
 - custom data structures
 - binary search
 
+[tab]:#what-is-tabulation
 [stacks]:#what-are-stacks
 [sso]:#what-is-sso
 [ssl]:#what-is-ssl
@@ -113,6 +114,23 @@ and why certain things are
 [home]:#the-internet-of-things
 
 ---
+
+### what is tabulation
+<details>
+<summary>
+View Content
+</summary>
+**:link: references**
+
+- [Dynamic programming vs memoization vs tabulation](https://programming.guide/dynamic-programming-vs-memoization-vs-tabulation.html)
+
+**Definition:** Tabulation is similar in the sense that it builds up a cache, but the approach is different. A tabulation algorithm focuses on filling the entries of the cache, until the target value has been reached.
+
+**My Definition:**
+
+</details>
+
+[go back :house:][home]
 
 
 ### what are stacks
