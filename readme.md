@@ -52,8 +52,8 @@ and why certain things are
 - [SSO][sso]
 - [stacks][stacks]
 - [tabulation][tab]
-- TCP/IP
-- TLS
+- [TCP/IP][tcp]
+- [TLS][tls]--
 - [token based authentication][token-auth]--
 - trees & binary search
 - tries
@@ -72,6 +72,8 @@ and why certain things are
 - custom data structures
 - binary search
 
+[tls]:#what-is-tls
+[tcp]:#what-is-tcpip
 [tab]:#what-is-tabulation
 [stacks]:#what-are-stacks
 [sso]:#what-is-sso
@@ -114,6 +116,40 @@ and why certain things are
 [home]:#the-internet-of-things
 
 ---
+
+### what is TLS
+<details>
+<summary>
+View Content
+</summary>
+**:link: references**
+
+- []()
+
+**Definition:** 
+
+**My Definition:**
+
+</details>
+
+[go back :house:][home]
+
+### what is TCP/IP
+<details>
+<summary>
+View Content
+</summary>
+**:link: references**
+
+- [TCP/IP](https://www.computerhope.com/jargon/t/tcpip.htm)
+
+**Definition:** Short for transmission control protocol/Internet protocol, TCP/IP is a set of rules (protocols) governing communications among all computers on the Internet. More specifically, TCP/IP dictates how information should be packaged (turned into bundles of information called packets), sent, and received, and how to get to its destination. TCP/IP was developed in 1978 and driven by Bob Kahn and Vint Cerf.
+
+**My Definition:**
+
+</details>
+
+[go back :house:][home]
 
 ### what is tabulation
 <details>
