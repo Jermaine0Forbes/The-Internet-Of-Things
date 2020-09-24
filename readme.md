@@ -124,9 +124,9 @@ View Content
 </summary>
 **:link: references**
 
-- []()
+- [What is Transport Layer Security (TLS)?](https://www.cloudflare.com/learning/ssl/transport-layer-security-tls/)
 
-**Definition:** 
+**Definition:** Transport Layer Security, or TLS, is a widely adopted security protocol designed to facilitate privacy and data security for communications over the Internet. A primary use case of TLS is encrypting the communication between web applications and servers, such as web browsers loading a website. TLS can also be used to encrypt other communications such as email, messaging, and voice over IP (VoIP).
 
 **My Definition:**
 
