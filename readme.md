@@ -53,9 +53,9 @@ and why certain things are
 - [stacks][stacks]
 - [tabulation][tab]
 - [TCP/IP][tcp]
-- [TLS][tls]--
-- [token based authentication][token-auth]--
-- trees & binary search
+- [TLS][tls]
+- [token based authentication][token-auth]
+- [trees][trees]
 - tries
 - world wide web
 
@@ -72,6 +72,7 @@ and why certain things are
 - custom data structures
 - binary search
 
+[trees]:#what-are-trees
 [tls]:#what-is-tls
 [tcp]:#what-is-tcpip
 [tab]:#what-is-tabulation
@@ -116,6 +117,23 @@ and why certain things are
 [home]:#the-internet-of-things
 
 ---
+
+### what are trees
+<details>
+<summary>
+View Content
+</summary>
+**:link: references**
+
+- [What is a Tree in Computer Science?](https://www.codesdope.com/blog/article/trees-in-computer-science/)
+
+**Definition:** A tree is an important data structure of computer science which is useful for storing hierarchically ordered data. Unlike stack, queue and linear lists (arrays and linked lists) which are used to store linear data like marks of students in a class, list of tasks to be done, etc, trees are used to store non-linear data structures in a hierarchical order. A family tree is the most common example of hierarchical data. Directory structure, corporate structure, etc are also common examples of hierarchical data.
+
+**My Definition:**
+
+</details>
+
+[go back :house:][home]
 
 ### what is TLS
 <details>
@@ -821,6 +839,12 @@ View Content
 **:link: references**
 
 - [The Ins and Outs of Token Based Authentication](https://scotch.io/tutorials/the-ins-and-outs-of-token-based-authentication#)
+- [TOKEN BASED AUTHENTICATION](https://auth0.com/learn/token-based-authentication-made-easy/)
+
+
+**Definition:** A token is a piece of data that has no meaning or use on its own, but combined with the correct tokenization system, becomes a vital player in securing your application. Token based authentication works by ensuring that each request to a server is accompanied by a signed token which the server verifies for authenticity and only then responds to the request. 
+
+**My Definition:**
 
 </details>
 
