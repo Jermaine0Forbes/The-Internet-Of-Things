@@ -56,7 +56,7 @@ and why certain things are
 - [TLS][tls]
 - [token based authentication][token-auth]
 - [trees][trees]
-- tries
+- [tries][trie]
 - world wide web
 
 
@@ -72,6 +72,7 @@ and why certain things are
 - custom data structures
 - binary search
 
+[trie]:#what-are-tries
 [trees]:#what-are-trees
 [tls]:#what-is-tls
 [tcp]:#what-is-tcpip
@@ -117,6 +118,23 @@ and why certain things are
 [home]:#the-internet-of-things
 
 ---
+
+### what are tries
+<details>
+<summary>
+View Content
+</summary>
+**:link: references**
+
+- [What is a trie](https://www.cs.bu.edu/teaching/c/tree/trie/)
+
+**Definition:** A trie is a tree-like data structure whose nodes store the letters of an alphabet. By structuring the nodes in a particular way, words and strings can be retrieved from the structure by traversing down a branch path of the tree.
+
+**My Definition:**
+
+</details>
+
+[go back :house:][home]
 
 ### what are trees
 <details>
