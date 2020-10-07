@@ -57,7 +57,7 @@ and why certain things are
 - [token based authentication][token-auth]
 - [trees][trees]
 - [tries][trie]
-- world wide web
+- [world wide web][www]
 
 
 ### Top 10 algorithms
@@ -72,6 +72,7 @@ and why certain things are
 - custom data structures
 - binary search
 
+[www]:what-is-the-world-wide-web
 [trie]:#what-are-tries
 [trees]:#what-are-trees
 [tls]:#what-is-tls
@@ -118,6 +119,24 @@ and why certain things are
 [home]:#the-internet-of-things
 
 ---
+
+### what is the world wide web
+<details>
+<summary>
+View Content
+</summary>
+:link: **references**
+
+- [World Wide Web (WWW)](https://whatis.techtarget.com/definition/World-Wide-Web)
+
+**Definition:** The Web, as it's commonly known, is often confused with the internet. Although the two are intricately connected, they are different things. The internet is, as its name implies, a network -- a vast, global network that incorporates a multitude of lesser networks. As such, the internet consists of supporting infrastructure and other technologies. In contrast, the Web is a communications model that, through HTTP, enables the exchange of information over the internet.
+
+**My Definition:**
+
+</details>
+
+[go back :house:][home]
+
 
 ### what are tries
 <details>
