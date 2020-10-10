@@ -35,7 +35,7 @@ and why certain things are
 - [pointers][point]
 - [linked lists][llist]
 - [OAuth][oauth]
-- proofs (contrapositive, contradiction, proof by cases, induction)
+- [proofs][proof]
 - [pure function][pure-fun]
 - [queues][q]
 - [quick sort][q-sort]
@@ -72,6 +72,7 @@ and why certain things are
 - custom data structures
 - binary search
 
+[proof]:#what-are-proofs
 [www]:what-is-the-world-wide-web
 [trie]:#what-are-tries
 [trees]:#what-are-trees
@@ -119,6 +120,23 @@ and why certain things are
 [home]:#the-internet-of-things
 
 ---
+
+### what are proofs
+<details>
+<summary>
+View Content
+</summary>
+**:link: references**
+
+- [Proofs](http://www.cs.ox.ac.uk/people/paul.goldberg/FCS/proofs.html)
+
+**Definition:** The aim of a mathematical proof is to convince a (human) reader that the claim is true. Proofs are rarely “formal” in the sense of applying an agreed-upon set of rules for deducing one statement from another. Indeed, there are various levels of formality (or precision, or detail) that might be used in the presentation of a proof. 
+
+**My Definition:**
+
+</details>
+
+[go back :house:][home]
 
 ### what is the world wide web
 <details>
